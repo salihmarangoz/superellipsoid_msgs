@@ -44,9 +44,9 @@ float64 e1
 float64 e2
 
 # Translation
-float64 x
-float64 y
-float64 z
+float64 tx
+float64 ty
+float64 tz
 
 # Orientation in a frame consistent with the right-handed NED coordinate frame
 float64 roll    # Fixed-axis roll, in radians. Positive clockwise rotation about the X axis, looking forward.
