@@ -6,9 +6,8 @@
     translation, rotation, and volume information.
   </description>
   <maintainer email="salih285@gmail.com">Salih Marangoz</maintainer>
-  <license>BSD</license>
+  <license>TODO</license>
 
-  <url>http://wiki.ros.org/geometry_msgs</url>
   <author email="salih285@gmail.com">Salih Marangoz</author>
 
   <buildtool_depend>catkin</buildtool_depend>
