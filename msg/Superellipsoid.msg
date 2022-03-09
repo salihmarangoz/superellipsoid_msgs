@@ -49,9 +49,9 @@ float64 ty
 float64 tz
 
 # Orientation in a frame consistent with the right-handed NED coordinate frame
-float64 roll    # Fixed-axis roll, in radians. Positive clockwise rotation about the X axis, looking forward.
-float64 pitch   # Fixed-axis pitch, in radians. Positive upwards rotation of the vehicle nose about the Y axis.
-float64 yaw     # Fixed-axis yaw, in radians. Positive clockwise rotation about the Z axis, looking down.
+float64 roll    # Fixed-axis roll, in degrees. Positive clockwise rotation about the X axis, looking forward.
+float64 pitch   # Fixed-axis pitch, in degrees. Positive upwards rotation of the vehicle nose about the Y axis.
+float64 yaw     # Fixed-axis yaw, in degrees. Positive clockwise rotation about the Z axis, looking down.
 
 # Volume is computed using the formula in https://en.wikipedia.org/wiki/Superellipsoid
 #
