@@ -1,2 +1,0 @@
-# superellipsoid_msgs
-
