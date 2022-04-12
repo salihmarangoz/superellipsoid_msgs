@@ -24,8 +24,8 @@ Header header
 #                                           
 #      2                  2                 
 # r = --     and     t = --                 
-#     e                  e                  
-#      2                  1                 
+#      e                  e                  
+#       2                  1                 
 #                                           
 #                                           
 #                           t               
