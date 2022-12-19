@@ -60,3 +60,5 @@ float64 yaw     # Fixed-axis yaw, in degrees. Positive clockwise rotation about 
 #     ⎝3⎠               ⎝r ⋅ t⎠     ⎝r  r⎠     ⎝t  t⎠
 #
 float64 volume # in cubic meter
+
+int32 id # non-zero values can be used for object tracking
