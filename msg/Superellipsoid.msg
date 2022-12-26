@@ -61,4 +61,4 @@ float64 yaw     # Fixed-axis yaw, in degrees. Positive clockwise rotation about 
 #
 float64 volume # in cubic meter
 
-uint32 id # non-zero values are used for object tracking. object tracking state must be reset if previous_msg.header.seq > current_msg.header.seq
+int32 id # non-negative values are used for object tracking. object tracking state must be reset if previous_msg.header.seq > current_msg.header.seq
